@@ -1,0 +1,10 @@
+C:\Users\hyuntae\source\repos\somersby\somersytest\bin\Debug\somersytest.exe.config
+C:\Users\hyuntae\source\repos\somersby\somersytest\bin\Debug\somersytest.exe
+C:\Users\hyuntae\source\repos\somersby\somersytest\bin\Debug\somersytest.pdb
+C:\Users\hyuntae\source\repos\somersby\somersytest\bin\Debug\somersby.dll
+C:\Users\hyuntae\source\repos\somersby\somersytest\bin\Debug\somersby.pdb
+C:\Users\hyuntae\source\repos\somersby\somersytest\obj\Debug\somersytest.csprojAssemblyReference.cache
+C:\Users\hyuntae\source\repos\somersby\somersytest\obj\Debug\somersytest.csproj.CoreCompileInputs.cache
+C:\Users\hyuntae\source\repos\somersby\somersytest\obj\Debug\somersytest.csproj.CopyComplete
+C:\Users\hyuntae\source\repos\somersby\somersytest\obj\Debug\somersytest.exe
+C:\Users\hyuntae\source\repos\somersby\somersytest\obj\Debug\somersytest.pdb

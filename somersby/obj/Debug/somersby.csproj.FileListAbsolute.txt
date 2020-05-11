@@ -1,0 +1,6 @@
+C:\Users\hyuntae\source\repos\somersby\bin\Debug\somersby.dll
+C:\Users\hyuntae\source\repos\somersby\bin\Debug\somersby.pdb
+C:\Users\hyuntae\source\repos\somersby\obj\Debug\somersby.csprojAssemblyReference.cache
+C:\Users\hyuntae\source\repos\somersby\obj\Debug\somersby.csproj.CoreCompileInputs.cache
+C:\Users\hyuntae\source\repos\somersby\obj\Debug\somersby.dll
+C:\Users\hyuntae\source\repos\somersby\obj\Debug\somersby.pdb
