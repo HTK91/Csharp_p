@@ -4,3 +4,9 @@ C:\Users\hyuntae\source\repos\somersby\obj\Debug\somersby.csprojAssemblyReferenc
 C:\Users\hyuntae\source\repos\somersby\obj\Debug\somersby.csproj.CoreCompileInputs.cache
 C:\Users\hyuntae\source\repos\somersby\obj\Debug\somersby.dll
 C:\Users\hyuntae\source\repos\somersby\obj\Debug\somersby.pdb
+C:\data\Csharp_p\somersby\bin\Debug\somersby.dll
+C:\data\Csharp_p\somersby\bin\Debug\somersby.pdb
+C:\data\Csharp_p\somersby\obj\Debug\somersby.csprojAssemblyReference.cache
+C:\data\Csharp_p\somersby\obj\Debug\somersby.csproj.CoreCompileInputs.cache
+C:\data\Csharp_p\somersby\obj\Debug\somersby.dll
+C:\data\Csharp_p\somersby\obj\Debug\somersby.pdb
